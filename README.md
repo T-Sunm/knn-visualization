@@ -1,5 +1,5 @@
 ---
-title: AIO2025M03 DEMO KNN
+title: DEMO KNN
 emoji: 🔥
 colorFrom: green
 colorTo: purple
@@ -27,7 +27,7 @@ An interactive web application demonstrating the K-Nearest Neighbors algorithm w
 ### Local Installation
 ```bash
 git clone <repository-url>
-cd AIO2025M03_DEMO_KNN
+cd knn-visualization
 pip install -r requirements.txt
 python app.py
 ```
@@ -63,10 +63,3 @@ Perfect for:
 - Exploring different distance metrics
 - Comparing classification vs regression approaches
 
-## 📄 License
-
-Educational use for AIO2025 course materials.
-
----
-
-**Live Demo**: [KNN Demo](https://huggingface.co/spaces/VLAI-AIVN/AIO2025M03_DEMO_KNN)
